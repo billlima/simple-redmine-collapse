@@ -7,8 +7,8 @@ Tested on Redmine 3.0
 
 OR
 
-- Insert code in application.js like 
+- Insert code in application.js
 
 OR 
 
-- Make your way
+- Make your way, it's simple
